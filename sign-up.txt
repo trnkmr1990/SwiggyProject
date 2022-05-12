@@ -1,0 +1,6 @@
+Enter the Email
+Enter the Password
+
+Click on the Sign Up button
+
+Logged in Successfully
