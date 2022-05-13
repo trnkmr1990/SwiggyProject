@@ -1,6 +1,6 @@
 Enter the Email[Enter valid Email]
 Enter the Password[Enter valid password]
 
-Click on the Sign Up button
+Click on the Sign Up button[Yes]
 
 Logged in Successfully
