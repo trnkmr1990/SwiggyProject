@@ -1,0 +1,4 @@
+Please upload the valid image
+Image format png/gif/jpg
+
+Image size less than 5 Mb.
