@@ -4,6 +4,10 @@ Enter the Password[Enter valid password]
 Click on the Sign Up button[Yes]
 
 Logged in Successfully
+
 Verify the user logged in 
 Verify the home button
 Verify the Profile pic
+
+++++++
+

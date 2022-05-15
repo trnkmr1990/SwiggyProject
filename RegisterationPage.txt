@@ -1,0 +1,7 @@
+Enter valid email address
+Enter valid Phone number
+
+Recive OTP
+Verify OTP
+
+Registeration Successfull
