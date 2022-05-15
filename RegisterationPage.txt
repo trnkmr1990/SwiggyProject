@@ -1,7 +1,7 @@
 Enter valid email address
 Enter valid Phone number
 
-Recive OTP
-Verify OTP
+Recive OTP[6 digit number]
+Verify OTP[6 digit number]
 
-Registeration Successfull
+User gets Registered and Logged in automatically.
